@@ -1,0 +1,30 @@
+awk	:- Find and Replace text, database sort/validate/index
+break	:- Exit from a loop
+cat	:- Concatenate and print (display) the content of files
+cd	:-Change Directory
+chmod	:- Change access permissions
+clear	:- Clear terminal screen
+cp	:- Copy one or more files to another location
+date :- Display or change the date and time
+dc	:- Desk Calculator
+dd	:- Convert and copy a file, write disk headers, boot records
+du	:- Estimate file space usage
+echo :- Display message on screen
+file :- Determine file type
+find :-Search for files that meet a desired criteria
+grep :- Search files for lines that match a given pattern
+head :- Output the first part of files
+id :-	 Print user and group id’s
+if :- Conditionally perform a command
+ifconfig :- Configure a network interface
+kill	:- Stop a process from running
+ls	:- List information about files
+man	:- Help manual
+mkdir	:- Create new folders
+mv  :- Move or rename files or directories
+ps	:- Process status
+pwd	:- Print Working Directory
+rm	:- Remove files
+rmdir	:- Remove folders
+sudo	:- Execute a command as another user
+touch	:- Change file timestamps
